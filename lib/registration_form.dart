@@ -19,7 +19,7 @@ class _RegistrationFormState extends State<RegistrationForm> {
         return;
       }
 
-      // Simulate saving data
+      
       print("Saving user: ${_nameController.text}, ${_emailController.text}");
 
 
